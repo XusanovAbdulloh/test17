@@ -1,0 +1,24 @@
+.t{
+    width: auto;
+    height: auto;
+    border-radius: 15px;
+    background-color: blue;
+    nav-up: 50px;
+}
+
+
+.text{
+    text-align: center;
+    justify-content: center;
+    margin-left: 200mm;
+    margin-right: 40mm;
+    color: rgb(78, 80, 82);
+}
+/* .h{
+    color: black;
+} */
+
+.span{
+    justify-content: center;
+    margin-left: 223px;
+}
